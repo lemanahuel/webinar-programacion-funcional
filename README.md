@@ -1,10 +1,22 @@
-# webinar-programacion-funcional
+## 💻 Webinar de Programación Funcional en Coderhouse
+Estaremos aplicando algunos metodos comunes a la hora de trabajar con el paradigma funcional.
 
-Documentacion metodos de Array
-https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array
+## Video 
+👉 https://youtu.be/42UTZdQGfxw
 
-Librerias
-https://lodash.com/ y https://underscorejs.org/
+## Recursos
 
-Aplicada con asincronismo
-https://caolan.github.io/async/
+### Documentacion
+- [Arrays](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array)
+
+### Librerias
+- [Lodash](https://lodash.com/)
+- [Underscore](https://underscorejs.org/)
+- [Async](https://caolan.github.io/async/)
+
+
+---
+
+### Contacto
+
+👋 [Nahuel Lema](https://www.linkedin.com/in/nahuellema/)
